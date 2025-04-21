@@ -74,3 +74,24 @@
 .sidebar-nav .list li i {
     color: var(--accent-color-light);
 }
+
+.sidebar-bottom{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sidebar-bottom img{
+    max-width: 32px;
+    border-radius: 50px;
+}
+
+.sidebar-bottom span{
+    color: #A7AAA4;
+    size: 12px;
+}
+
+.sidebar-bottom i {
+    color: var(--accent-color-light);
+}
